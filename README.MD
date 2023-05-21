@@ -32,7 +32,7 @@ to prevent any issue for ponisha please do not make many requests.how ever if ru
 ## Visuals
 here is e.g of message of the Telegram Bot :
 
-<img src="./Images/Bot-Message.png" width="500" style="display: block; margin-left: auto; margin-right: auto;"> 
+<img src="./Image/Bot-Message.png" width="500" style="display: block; margin-left: auto; margin-right: auto;"> 
 ## Note 
 there is part to send you (admin of bot) The data about anyone who texted the BOT.before you share this bot with anyone or give them service with it, make sure to remove the part which send info about chat id and people id as text message.
 ## Contributing
