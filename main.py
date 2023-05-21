@@ -135,6 +135,7 @@ if __name__ == '__main__':
         if current_time == 11:
             capture()
             finder()
-            # sail()
+            sail()
+            chat_id_capture()
         time.sleep(3600)
 
